@@ -30,6 +30,9 @@ go.work.sum
 # log files
 *.log
 
+# protobuf
+*.pb.go
+
 # Editor/IDE
 # .idea/
 # .vscode/
